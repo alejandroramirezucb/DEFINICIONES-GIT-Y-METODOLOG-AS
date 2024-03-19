@@ -34,7 +34,7 @@
 # 8. TESTING
 * Es el proceso de evaluar y verificar que un producto o aplicación de software hace lo que se supone que debe hacer.
 
-* Es un proceso para verificar y validar la funcionalidad de un programa o una aplicación de software con el objetivo de garantizar que el producto de software esté libre de defectos. PROFILE 2021.
+* Es un proceso para verificar y validar la funcionalidad de un programa o una aplicación de software con el objetivo de garantizar que el producto de software esté libre de defectos. PROFILE, 2021.
 # 9. DEBUGGING
 * Es el proceso que nos permite detectar y diagnosticar fallos en programas informáticos.
 
